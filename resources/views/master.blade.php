@@ -20,7 +20,7 @@
     .coustm-login{
         height: 500px;
         padding-top: 100px;
-        margin-right:-200px;
+        margin-right:-300px;
     }
 </style>
 </html>
